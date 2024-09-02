@@ -1,0 +1,28 @@
+body {
+  background-color: aquamarine;
+}
+
+.local_box_header {
+  color: rgb(146, 5, 15);
+  background-color: rgb(217, 255, 215);
+}
+
+.local_right {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+  color: #29627e;
+}
+
+.local_left {
+  width: 40%;
+  padding-right: 0.5rem;
+  margin-right: 0.5rem;
+  float: left;
+  box-shadow: inset -5px 0 5px -5px #7e297d;
+  font-style: italic;
+  color: #29627e;
+}
